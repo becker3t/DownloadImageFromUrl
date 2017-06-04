@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadFile</string>
+    <string name="download_file">Download File</string>
+    <string name="enter_url">Paste Photo Url</string>
+</resources>
